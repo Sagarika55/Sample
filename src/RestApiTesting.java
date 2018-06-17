@@ -51,8 +51,6 @@ public class RestApiTesting {
 	    		System.out.println("passed");
 	    	}
 		}
-	    
-	    
 		}
 	
 	
