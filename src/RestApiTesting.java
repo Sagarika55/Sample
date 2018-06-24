@@ -46,6 +46,7 @@ public class RestApiTesting {
 	    	{
 	    		System.out.println("passed");
 	    	}
+	    	
 	    	if(responseBody.Temperature == "31.02 Degree celsius")
 	    	{
 	    		System.out.println("passed");
