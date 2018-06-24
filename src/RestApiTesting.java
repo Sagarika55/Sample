@@ -13,10 +13,9 @@ import io.restassured.mapper.factory.Jackson1ObjectMapperFactory;
 import io.restassured.mapper.factory.Jackson2ObjectMapperFactory;
 
 public class RestApiTesting {
-	
-	public static void main(String [] args)
+	public void apiGet()
 	{
-		
+
 		/*Response response = RestAssured.get("https://jsonplaceholder.typicode.com/posts");
 		int code=response.getStatusCode();
 		System.out.println(code);
@@ -47,15 +46,20 @@ public class RestApiTesting {
 	    	{
 	    		System.out.println("passed");
 	    	}
+	    	
 	    	if(responseBody.Temperature == "31.02 Degree celsius")
 	    	{
 	    		System.out.println("passed");
 	    	}
 		}
-	    
-	    
 		}
-
 	
+	
+	public static void main(String [] args)
+	{
+		RestApiTesting obj = new RestApiTesting();
+		obj.apiGet();
+
+	}
 
 }
