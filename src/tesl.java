@@ -11,7 +11,7 @@ public class tesl {
 	//StringBuilder sb = new StringBuilder("Soumendra");
 //int i = sb.indexOf("S");
 //System.out.println(i);
-System.out.println(sb.insert(2, "cat"));
+System.out.println(sb.insert(3, "cat"));
 
 	
 	/*for(int i=0;i<a.length;i++)
