@@ -61,6 +61,10 @@ public class RestApiTesting {
 		//Create json object using JSONObject class and method Put.;;;
 		//JSONObject data= new JSONObject();
 	}
+	public void PutApi()
+	{
+		
+	}
 	public static void main(String [] args)
 	{
 		RestApiTesting obj = new RestApiTesting();
