@@ -13,6 +13,7 @@ import io.restassured.mapper.factory.Jackson1ObjectMapperFactory;
 import io.restassured.mapper.factory.Jackson2ObjectMapperFactory;
 
 public class RestApiTesting {
+	
 	public void apiGet()
 	{
 
@@ -54,7 +55,12 @@ public class RestApiTesting {
 		}
 		}
 	
-	
+	public void PostAPI()
+	{
+		Response req= RestAssured.get("http://restapi.demoqa.com/customer/register");
+		//Create json object using JSONObject class and method Put.;;;
+		//JSONObject data= new JSONObject();
+	}
 	public static void main(String [] args)
 	{
 		RestApiTesting obj = new RestApiTesting();
