@@ -1,0 +1,231 @@
+[33mcommit 24d8f7671e197c5020e638e129d7494842a15aef[m[33m ([m[1;36mHEAD -> [m[1;32msnlocal[m[33m)[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Tue Jun 26 22:00:09 2018 +0530
+
+    commit2
+
+[33mcommit a39c427de7703eb3cb65e1efb329ddc0bc75e35f[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Tue Jun 26 21:58:42 2018 +0530
+
+    commit1
+
+[33mcommit 22a0f5b951b073675f3368082e98026535b06288[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Mon Jun 25 21:27:44 2018 +0530
+
+    testl
+
+[33mcommit 1981f213075bdc399b293ee567e1513c651a3539[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mRestAPIPost[m[33m)[m
+Merge: 3fa089e b2a47f9
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun Jun 24 21:15:33 2018 +0530
+
+    Merge pull request #9 from Sagarika55/snlocal
+    
+    Snlocal
+
+[33mcommit b2a47f9730af25ad7de92c7f9383c318e978e706[m[33m ([m[1;31morigin/snlocal[m[33m)[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sun Jun 24 20:17:28 2018 +0530
+
+    ASS
+
+[33mcommit 60c1916f6b4b772397ea76ea784bc145030fff1a[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sun Jun 17 21:46:34 2018 +0530
+
+    function added
+
+[33mcommit a48618cb9be05f23c174a6e9eaa2fd921d3ffbb6[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sun Jun 17 21:34:48 2018 +0530
+
+    api updated
+
+[33mcommit 3fa089eb1af208e2683adce89ae888037e49bcc4[m[33m ([m[1;32mgitapiautomate[m[33m)[m
+Merge: 43498f2 303a454
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun Jun 17 21:09:13 2018 +0530
+
+    Merge pull request #8 from Sagarika55/snlocal
+    
+    getApiAutomated
+
+[33mcommit 303a45407cdf6c4c91e848b619203d5455bf7439[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sun Jun 17 21:06:07 2018 +0530
+
+    getApiAutomated
+
+[33mcommit 43498f2b91a3dbcbe4e3be75368d4d2f66b3cba9[m
+Merge: 8b688fa 7d75f91
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun Jun 17 16:28:47 2018 +0530
+
+    Merge pull request #7 from Sagarika55/snlocal
+    
+    Snlocal
+
+[33mcommit 7d75f91f1818348a06c17d33a206e0152a504397[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Tue Jun 12 22:03:04 2018 +0530
+
+    print hello world
+
+[33mcommit bcc4b338118550139062e4778a4e32ed427f68e4[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Tue Jun 12 22:00:44 2018 +0530
+
+    sucess
+
+[33mcommit 225d0294d49227b6189c5085d74483529d4e7f79[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Tue Jun 12 21:56:40 2018 +0530
+
+    modified
+
+[33mcommit 8b688faf4dd217a6fa8d91e39dce5d99a2655bfb[m
+Merge: f92662d 4385a13
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Wed May 16 22:02:28 2018 +0530
+
+    Merge pull request #6 from Sagarika55/snlocal
+    
+    stringreverseproject
+
+[33mcommit 4385a13056506a33c4e548480b81c82b5f14e8b4[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Wed May 16 21:59:56 2018 +0530
+
+    stringreverseproject
+
+[33mcommit f92662d94799b7b82206751af60d6ef410c188ba[m
+Merge: c021db7 03e9443
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun May 13 11:36:07 2018 +0530
+
+    Merge pull request #5 from Sagarika55/revert-4-snlocal
+    
+    Revert "added new test1"
+
+[33mcommit 03e9443f7c5cf7b39907c4a48b1f5e0a0975c0b4[m[33m ([m[1;31morigin/revert-4-snlocal[m[33m)[m
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun May 13 11:35:45 2018 +0530
+
+    Revert "added new test1"
+
+[33mcommit c021db772876122ffc9b996f1a7f037bd9231883[m
+Merge: 9a204ff 2b6b1e3
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun May 13 11:33:34 2018 +0530
+
+    Merge pull request #4 from Sagarika55/snlocal
+    
+    added new test1
+
+[33mcommit 2b6b1e336fd9def8f297a24ae73b01ecfdd32b5c[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sun May 13 11:29:50 2018 +0530
+
+    added new test1
+
+[33mcommit 9a204ff74ee772ec3dd0be0e05e19f64807de846[m
+Merge: 5f04936 e67b6db
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sat May 12 22:28:04 2018 +0530
+
+    Merge pull request #3 from Sagarika55/snlocal
+    
+    second changes
+
+[33mcommit e67b6dbb038c42feb43254d423c5ccc5025069e2[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 22:25:18 2018 +0530
+
+    second changes
+
+[33mcommit 5f049369064616117312266712e633312186bf43[m
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sat May 12 22:22:24 2018 +0530
+
+    Update Test.java
+
+[33mcommit 4063f286c2cf8868e97eaae54f8df0a37e74cd86[m
+Merge: e974532 6da3b0f
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sat May 12 22:21:16 2018 +0530
+
+    Merge pull request #2 from Sagarika55/snlocal
+    
+    Snlocal
+
+[33mcommit 6da3b0fa102a2f215ec555bf0907eaaa0a51810f[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 22:05:10 2018 +0530
+
+    s
+
+[33mcommit b25e096a45a559bb56119668529a94566b0690ab[m
+Merge: 8cea5c3 e974532
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 22:04:17 2018 +0530
+
+    Merge branch 'master' of github.com:Sagarika55/Sample into snlocal
+
+[33mcommit 8cea5c387a7fbd8d2ba9871d1c975d3df333216b[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 21:48:43 2018 +0530
+
+    JIRA1234 testfileadded
+
+[33mcommit 635043e7cd73be6eade4adb345e16d195cece4e7[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 21:43:40 2018 +0530
+
+    JIRA1234 testfileadded
+
+[33mcommit 5ef7f69c385465112b09e826b9b5b4775d221cd4[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 21:40:19 2018 +0530
+
+    JIRA1234 testfileadded
+
+[33mcommit a5461cb7f7ed31193123ae413b06ec90f9da0030[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 21:28:47 2018 +0530
+
+    JIRA1234 testfileadded
+
+[33mcommit 79e5677ec2c352b7fb60262535f93461492ddf29[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 21:10:56 2018 +0530
+
+    Jira12 mmm
+
+[33mcommit 434b3dc4b285db67849a34f145767d9c607fd73a[m
+Author: Sagarika <sagarikanayakjobs@gmail.com>
+Date:   Sat May 12 20:59:50 2018 +0530
+
+    JIRA1234 testfileadded
+
+[33mcommit e9745328126efbd6b83e54905d23da23fe8d2ffe[m
+Merge: 060b6d1 006e64c
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun Feb 4 21:06:09 2018 +0530
+
+    Merge pull request #1 from Sagarika55/samplebranch
+    
+    Update README.md
+
+[33mcommit 006e64cafcd97bb3165096b57bf31e9e782d5ece[m[33m ([m[1;31morigin/samplebranch[m[33m)[m
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun Feb 4 21:02:36 2018 +0530
+
+    Update README.md
+
+[33mcommit 060b6d10b54685e104009e8584539896b8162563[m
+Author: Sagarika55 <36132684+Sagarika55@users.noreply.github.com>
+Date:   Sun Feb 4 20:58:06 2018 +0530
+
+    Initial commit
